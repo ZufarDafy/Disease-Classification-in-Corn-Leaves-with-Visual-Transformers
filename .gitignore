@@ -1,0 +1,11 @@
+/data/
+/data_baru/
+/test/
+/archive/
+/SimpleViT.pth
+/SimpleViT2.pth
+/SimpleViT3.pth
+/ViT.pth
+/ViT2.pth
+/ViT3.pth
+/trained_vit_model.pth
